@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Avertra Corp",
+      "license": "Apache 2",
+      "author": "Ganesh S Acharya",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
