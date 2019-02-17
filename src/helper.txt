@@ -1,0 +1,1 @@
+https://docs.mendix.com/refguide/xml-reference-guide#2-start-of-the-widget-xml
