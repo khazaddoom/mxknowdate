@@ -6,10 +6,13 @@
     <icon />
 
     <properties>
-        <property key="dummyKey" type="string" required="false" defaultValue="">
-            <caption>Dummy key</caption>
-            <category>Appearance</category>
-            <description>This key was added to make the widget work in the Modeler (needs atleast 1 key). Please change/remove this one</description>
+        <property key="name" type="attribute" required="true" defaultValue="">
+            <caption>Name</caption>
+            <category>Data source</category>
+            <description>Select a String Attribute!</description>
+            <attributeTypes>
+               <attributeType name="String" />
+            </attributeTypes>
         </property>
     </properties>
 </widget>
