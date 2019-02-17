@@ -14,5 +14,11 @@
                <attributeType name="String" />
             </attributeTypes>
         </property>
+        <property key="microflow" type="microflow" required="true">
+            <caption>Microflow</caption>
+            <category>Microflows</category>
+            <description>Select a microflow</description>
+            <returnType type="Boolean"/> 
+        </property>
     </properties>
 </widget>
